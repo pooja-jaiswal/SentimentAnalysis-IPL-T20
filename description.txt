@@ -1,7 +1,7 @@
 --------------------------------------------------------------------------------------------------------------------------------------------
 General Description
 --------------------------------------------------------------------------------------------------------------------------------------------
-This assignment is based on tweet data collected from IPL T20 2019 matches which is currently ongoing. IPL is an Indian premier league T20 cricket tournament held every year.
+This project is based on tweet data collected from IPL T20 2019 matches which is currently ongoing. IPL is an Indian premier league T20 cricket tournament held every year.
 
 I have collected latest tweets of this (2019) IPL matches with a set of hashtags mentioned below:
 ['#CSK', '#KKR', '#RCB', '#DC', '#KXIP', '#MI'] : These are the teams like Chennai Super Kings(CSK), Kolkata Night riders(KKR), Royal Challengers Bangalore(RCB), Mumbai Indians(MI), Kings XI Punjab(KXIP).
