@@ -1,7 +1,7 @@
 # place any necessary python libraries here, one per line, to be installed with pip install -r requirements.txt. See https://pip.readthedocs.io/en/1.1/requirements.html
 networkx==2.1
 matplotlib==2.2.2
-nltk==3.3
+nltk==3.4.5
 TwitterAPI==2.5.9
 scikit-learn==0.20.3
 #sudo python -m nltk.downloader
